@@ -1,0 +1,13 @@
+@charset "utf-8";
+header {
+	font: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+nav {
+	background-color: hsla(41,95%,83%,1.00);
+}
+body {
+	font: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+footer {
+	font: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif
+}
