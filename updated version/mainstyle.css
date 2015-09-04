@@ -1,0 +1,43 @@
+@charset "utf-8";
+header {
+	font: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-align: center;
+	text-decoration: underline;
+	word-spacing: normal;
+	background-origin: border-box;
+	background-color: hsla(183,89%,90%,1.00);
+	background-position: 145% 73%;
+}
+nav {
+	background-color: hsla(183,89%,90%,1.00);
+	text-align: center;
+}
+body {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	background-color: hsla(41,91%,83%,1.00);
+	padding-right: 69px;
+	background-origin: content-box;
+}
+header2 {
+		text-decoration: underline;
+}
+header3 {
+	text-decoration: underline;
+}
+header4 {
+	text-decoration: underline;
+}
+a:hover {
+	color: hsla(32,96%,55%,1.00);
+}
+footer {
+	font: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-align: center;
+	background-position: 0% -14%;
+}
+table {
+	background-color: hsla(0,0%,100%,1.00);
+	text-align: left;
+	
+}
+}
